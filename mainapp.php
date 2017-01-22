@@ -2,10 +2,10 @@
 function __autoload($url) {
 	require ("$url.php");
 }
-//if (isset ( $_GET ['budget'] ) && isset ( $_GET ['mucdich'] )) {
+// if (isset ( $_GET ['budget'] ) && isset ( $_GET ['mucdich'] )) {
 	// get purpose and budget
 	$purpose = 'Game';
-	$budget = 30000000;
+	$budget = 25000000;
 	$rows;
 	
 	// retrieve data from csv file
@@ -51,50 +51,50 @@ function __autoload($url) {
 	$totalPrice;
 	
 	// get cpu information
-	$cpu = new Cpu($name, $price, $socket);
+	$cpu = new cpu($name, $price, $socket);
 	$cpuInfo = $cpu->getCpuInformation ( $cpuPrice, $purpose );
 	$totalPrice += $cpuInfo->price;
 	
 	// get mainboard information
 	$socket = $cpuInfo->socket;
-	$mainboard = new Mainboard($name, $price, $ramType, $ramSlot, $haveM2Slot);
+	$mainboard = new mainboard($name, $price, $ramType, $ramSlot, $haveM2Slot);
 	$mainboardInfo = $mainboard->getMainboardInformation ( $mainboardPrice, $socket );
 	$totalPrice += $mainboardInfo->price;
 	
 	// get ram information
 	$ramType = $mainboardInfo->ramType;
-	$ram = new Ram($name, $price);
+	$ram = new ram($name, $price);
 	$ramInfo = $ram->getRamInformation ( $ramPrice, $ramType );
 	$totalPrice += $ramInfo->price;
 	
 	// get vga information
-	$vga = new Vga($name, $price, $psuName);
+	$vga = new vga($name, $price, $psuName);
 	$vgaInfo = $vga->getVga ( $vgaPrice );
 	$totalPrice += $vgaInfo->price;
 	
 	// get psu information
 	$psuWatt = $vgaInfo->psuName;
-	$psu = new Psu($name, $price);
+	$psu = new psu($name, $price);
 	$psuInfo = $psu->getPsuInformation ( $psuPrice, $psuWatt );
 	$totalPrice += $psuInfo->price;
 	
 	// get hdd information
-	$hdd = new Hdd($name, $price);
+	$hdd = new hdd($name, $price);
 	$hddInfo = $hdd->getHddInformation ( $hddPrice );
 	$totalPrice += $hddInfo->price;
 	
 	// get ssd information
-	$ssd = new Ssd($name, $price);
+	$ssd = new ssd($name, $price);
 	$ssdInfo = $ssd->getSsdInformation ( $ssdPrice );
 	$totalPrice += $ssdInfo->price;
 	
 	// get case information
-	$case = new ComputerCase($name, $price);
+	$case = new computercase($name, $price);
 	$caseInfo = $case->getCaseInformation ( $casePrice );
 	$totalPrice += $caseInfo->price;
 	
 	// get cooling information
-	$cooling = new Cooling($name, $price);
+	$cooling = new cooling($name, $price);
 	$coolingInfo = $cooling->getCoolingInformation ( $heatsinkPrice );
 	$totalPrice += $coolingInfo->price;
 	
@@ -114,5 +114,5 @@ function __autoload($url) {
 // 	json_encode($message, JSON_UNESCAPED_SLASHES);
 // 	json_encode($message, JSON_PRETTY_PRINT);
 	echo json_encode($message);
-//}
+// }
 ?>
