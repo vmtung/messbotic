@@ -1,0 +1,105 @@
+Price,Catergory,Brand,Name,Socket,Type,Code,Đời
+0,CPU Intel,Intel,Intel Dualcore G630 PentiumD-2.7GHz,1155,G,630,1
+0,CPU Intel,Intel,Intel Dualcore G645 PentiumD-2.9GHz,1155,G,645,1
+0,CPU Intel,Intel,Intel Dualcore G860 PentiumD-3.0GHz,1155,G,860,1
+915000,CPU Intel,Intel,CPU Intel Celeron G550-2.6GHz,1155,G,550,1
+0,CPU Intel,Intel,"CPU Intel Celeron G1610 -2.6Ghz - 2MB Cache, socket 1155",1155,G,1610,2
+840000,CPU Intel,Intel,CPU Intel Celeron G1830 2.80Ghz / 2MB Cache / Intel HD Graphic / Socket 1150,1150,G,1830,2
+840000,CPU Intel,Intel,"CPU Intel Celeron G1840 2.8GHZ – 2MB Cache, sk 1150",1150,G,1840,2
+865000,CPU Intel,Intel,CPU Intel Celeron G1630 -2.6GHZ ,1155,G,1630,2
+0,CPU Intel,Intel,"CPU Intel Xeon E3 1230v2 -3.3Ghz - 8MB Cache, socket 1155",1155,E3,1230,3
+0,CPU Intel,Intel,Intel Core i3-2120-3.3GHz,1155,i3,2120,3
+0,CPU Intel,Intel,Intel DualCore G2010-2.8GHz,1155,G,2010,3
+1265000,CPU Intel,Intel,CPU Intel Pentium G2020 2.9GHz / 3MB / HD Graphics / Socket 1155,1155,G,2020,3
+1320000,CPU Intel,Intel,CPU Intel Dualcore G2030 - 3.0Ghz,1155,G,2030,3
+1420000,CPU Intel,Intel,CPU Intel Pentium G2120 3.1GHz / 3MB / HD Graphics / Socket 1155,1155,G,2120,3
+1545000,CPU Intel,Intel,CPU Intel Pentium G2130 3.2GHz / 3MB / HD Graphics / Socket 1155,1155,G,2130,3
+4550000,CPU Intel,Intel,CPU Intel Xeon E3 1220v2 -3.1Ghz,1155,E3,1220,3
+6339000,CPU Intel,Intel,CPU Intel Core Xeon E3-1230 V6 3.5 GHz / 8MB / Socket 1151 (Kabylake),1151,E3,1230,3
+6900000,CPU Intel,Intel,CPU Intel Xeon E3-1245 V2 3.4GHz / 8MB / Socket 1155,1155,E3,1245,3
+0,CPU Intel,Intel,"CPU Intel Core i3 3210 - 3.1GHz - 3MB Cache, socket 1155",1155,i3,3210,4
+0,CPU Intel,Intel,CPU Intel Core i3 3220 3.3Ghz / 3MB Cache / socket 1155,1155,i3,3220,4
+0,CPU Intel,Intel,CPU Intel Core i3-3225 - 3.3GHz / 3MB Cache / 5.0GT/s / Intel HD 4000,1155,i3,3225,4
+0,CPU Intel,Intel,"CPU Intel Core i5-3330 - 3.0GHz, 6M L3 Cache, 5GT/s",1155,i5,3330,4
+0,CPU Intel,Intel,CPU Intel Core i5-3570 - 3.4GHz,1155,i5,3570,4
+0,CPU Intel,Intel,"CPU Intel Core i7-3930K - 3.2GHz, 12M L3 Cache, 5 GT/s, LGA 2011",2011,i7,3930,4
+0,CPU Intel,Intel,CPU Intel Core i7-3960X,2011,i7,3960,4
+0,CPU Intel,Intel,CPU Intel Core Xeon E3-1240 V3 3.40 GHz -8MB Socket 1150 (Haswell),1150,E3,1240,4
+0,CPU Intel,Intel,CPU Intel Pentium G3220 3.0GHz / 3MB / HD Graphics / Socket 1150,1155,G,3220,4
+0,CPU Intel,Intel,CPU Intel Xeon E5 1620v3 -3.5Ghz- 8MB Cache,1150,E5,1620,4
+830000,CPU Intel,Intel,Intel Celeron G3900 2.8G / 2MB / HD Graphics 510 / Socket 1151 (Skylake),1151,G,3900,4
+1079000,CPU Intel,Intel,CPU Intel Celeron G3930 2.9 GHz / 2MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,G,3930,4
+1220000,CPU Intel,Intel,CPU Intel Pentium Dual Core G3240 3.1Ghz-3Mb Box,1155,G,3240,4
+1270000,CPU Intel,Intel,CPU Intel Pentium G3250 3.2GHz / 3MB / HD Graphics / Socket 1150,1155,G,3250,4
+1290000,CPU Intel,Intel,CPU Intel Pentium G3260 3.3GHz / 3MB / HD Graphics / Socket 1150,1155,G,3260,4
+1339000,CPU Intel,Intel,CPU Intel Celeron G3950 3.0 GHz / 2MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,G,3950,4
+1485000,CPU Intel,Intel,CPU Intel Pentium G3420 3.2G / 3MB / HD Graphics / Socket 1150,1155,G,3420,4
+1490000,CPU Intel,Intel,CPU Intel Pentium G3440 3.3G / 3MB / HD Graphics / Socket 1150,1155,G,3440,4
+1510000,CPU Intel,Intel,CPU Intel Pentium G3450 3.4G / 3MB / HD Graphics / Socket 1150,1155,G,3450,4
+1560000,CPU Intel,Intel,"CPU Intel Pentium G3460 Box -3.5Ghz- 3MB Cache, socket 1150",1155,G,3460,4
+1575000,CPU Intel,Intel,CPU Intel Pentium G3258 Box -3.2Ghz,1155,G,3258,4
+2100000,CPU Intel,Intel,CPU Intel Pentium G3430 3.3G / 3MB / HD Graphics / Socket 1150,1155,G,3430,4
+2625000,CPU Intel,Intel,CPU Intel Core i3-3250 - 3.5GHz,1155,i3,3250,4
+2630000,CPU Intel,Intel,CPU Intel Core i3-3240 - 3.4GHz / 3MB Cache / 5.0GT/s /  Intel HD 2500,1155,i3,3240,4
+4499000,CPU Intel,Intel,CPU Intel Core i5 3340 3.1Ghz / 6MB / HD 2500 Graphics / Socket 1155 Ivy Bridge,1155,i5,3340,4
+4680000,CPU Intel,Intel,CPU Intel Core i5-3470 - 3.2GHz,1155,i5,3470,4
+4690000,CPU Intel,Intel,CPU Intel Core i5 3340 3.3Ghz / 6MB / HD 2500 Graphics / Socket 1155 Ivy Bridge,1155,i5,3340,4
+4820000,CPU Intel,Intel,"CPU Intel Xeon E3 1220v3 -3.1Ghz- 8MB Cache,Haswel  sk 1150",1150,E3,1220,4
+5720000,CPU Intel,Intel,CPU Intel Xeon E3-1230 V3 3.3GHz / 8MB / Socket 1150 (Haswell),1150,E3,1230,4
+5990000,CPU Intel,Intel,CPU Intel Xeon E3-1231 V3 3.4GHz / 8MB / Socket 1150 (Haswell),1150,E3,1231,4
+6690000,CPU Intel,Intel,CPU Intel Core i7-3770 3.4GHz,1155,i7,3770,4
+6890000,CPU Intel,Intel,CPU Intel Core i7 3820 3.6GHz / 10MB / Socket 2011,2011,i7,3820,4
+6979000,CPU Intel,Intel,CPU Intel Core Xeon E3-1240 V6 3.7 GHz / 8MB / Socket 1151 (Kabylake),1151,E3,1240,4
+7390000,CPU Intel,Intel,CPU Intel Core i7-3770K - 3.5GHz,1155,i7,3770,4
+0,CPU Intel,Intel,CPU Intel Core i3 – 4130 Box - 3.4Ghz - 3MB Cache,1150,i3,4130,5
+0,CPU Intel,Intel,"CPU Intel Core i5-4430 Processor 3.0Ghz - 3.0Ghz - 6MB Cache, socket 1150",1150,i5,4430,5
+0,CPU Intel,Intel,CPU Intel Core i5-4440 Processor 3.1Ghz - 6MB Cache,1150,i5,4440,5
+1310000,CPU Intel,Intel,CPU Intel Core Pentium G4400 3.3G / 3MB / Socket 1151 (Skylake),1151,G,4400,5
+1659000,CPU Intel,Intel,CPU Intel Pentium G4560 3.5 GHz / 3MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,G,4560,5
+1730000,CPU Intel,Intel,CPU Intel Pentium G4500 3.5G / 3MB / HD Graphics 530 / Socket 1151 (Skylake),1151,G,4500,5
+2079000,CPU Intel,,CPU Intel Pentium G4600 3.6 GHz / 3MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,G,4600,5
+2230000,CPU Intel,Intel,CPU Intel Pentium G4520 3.6G / 3MB / HD Graphics 530 / Socket 1151 (Skylake),1151,G,4520,5
+2349000,CPU Intel,Intel,CPU Intel Pentium G4620 3.7 GHz / 3MB / HD 600 Series Graphics / Kabylake,1151,G,4620,5
+2530000,CPU Intel,Intel,"CPU Intel Core i3 – 4170 Box -3.7Ghz- 4MB Cache, socket 1150",1140,i3,4170,5
+2550000,CPU Intel,Intel,CPU Intel Core i3 4150 3.50GHz / 3M Cache / Intel HD Graphic / Socket 1150,1150,i3,4150,5
+2570000,CPU Intel,Intel,CPU Intel Core i3 4160 Box / 3.6Ghz / 3MB Cache / socket 1150,1150,i3,4160,5
+3350000,CPU Intel,Intel,CPU Intel Core i3 4330 Box / 3.5Ghz / 4MB Cache / socket 1150,1150,i3,4330,5
+4270000,CPU Intel,Intel,CPU Intel Core i5 4460 3.20GHz up to 3.40GHz / 6MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i5,4460,5
+4600000,CPU Intel,Intel,CPU Intel Core i5 4570 3.2Ghz / 6MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i5,4570,5
+4860000,CPU Intel,Intel,CPU Intel Core i5-4590 3.3Ghz / 6MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i5,4590,5
+5190000,CPU Intel,Intel,CPU Intel Core i5 4670 3.4Ghz / 6MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i5,4670,5
+5320000,CPU Intel,Intel,CPU Intel Core i5 4690 3.5Ghz / 6MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i5,4690,5
+5360000,CPU Intel,Intel,CPU Intel Core i5 4670K 3.4Ghz / 6MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i5,4670,5
+5850000,CPU Intel,Intel,CPU Intel Core i5 4690K 3.6Ghz / 6MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i5,4690,5
+6890000,CPU Intel,Intel,"CPU Intel Core i7-4770 Processor 3.4Ghz, 8MB L3 Cache, socket 1150, 25.6 GB/s Box",1150,i7,4770,5
+7450000,CPU Intel,Intel,CPU Intel Core i7 4790 3.6Ghz / 8MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i7,4790,5
+7799000,CPU Intel,Intel,CPU Intel Core i7 4770K 3.5Ghz / 8MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i7,4770,5
+8459000,CPU Intel,Intel,CPU Intel Core i7 4790K 4.0Ghz / 8MB / HD 4600 Graphics / Socket 1150 Haswell,1150,i7,4790,5
+16600000,CPU Intel,Intel,Intel Xeon  E5 2630V3 - 2.4GHz / (8/16) / 20M Cache / NONE GPU / Socket 2011-3 (chưa quạt),2011v3,E5,2630,5
+0,CPU Intel,Intel,"CPU Intel Core i7-6900K Processor  (20M Cache, up to 3.70 GHz)",2011v3,i7,6900,6
+0,CPU Intel,Intel,"CPU Intel Core i7-6950X Processor Extreme Edition  (25M Cache, up to 3.50 GHz)",2011v3,i7,6950,6
+6390000,CPU Intel,Intel,CPU Intel Xeon E3-1230V5 3.4GHz / 8MB / Socket 1151 (Skylake),1151,E3,1230,6
+9590000,CPU Intel,Intel,Intel Core i7-5820K 3.3 GHz / 15MB / Không có IGP / 6 Cores12 ThreadsQPI / Socket 2011 (No Fan),2011,i7,5820,6
+10690000,CPU Intel,Intel,"CPU Intel Core i7-6800K Processor  (15M Cache, up to 3.60 GHz) SK2011",2011v3,i7,6800,6
+14390000,CPU Intel,Intel,"CPU Intel Core i7 5930K 3.50 GHz turbo 3.7 Ghz / 12MB / 6 Cores, 12 Threads / 68 GB/s DMI / Socket 2011 (No Fan) ",2011,i7,5930,6
+15390000,CPU Intel,Intel,"CPU Intel Core i7-6850K Processor  (15M Cache, up to 3.80 GHz)",2011v3,i7,6850,6
+24750000,CPU Intel,Intel,CPU Intel Core i7 - 5960X Extreme Edition 3.0 GHz turbo 3.5 GHZ - Socket 2011 (No Fan) ,2011,i7,5960,6
+2590000,CPU Intel,Intel,CPU Intel Core i3 6098P 3.60GHz / (2/4) / 3MB / HD Graphics 510 / Socket 1151,1151,i3,6098,7
+2640000,CPU Intel,Intel,CPU Intel Core i3 6100 3.7 GHz / 3MB / HD 530 Graphics / Socket 1151 (Skylake),1151,i3,6100,7
+3530000,CPU Intel,Intel,CPU Intel Core i3 6300 3.8 GHz / 4MB / HD 530 Graphics / Socket 1151 (Skylake),1151,i3,6300,7
+3770000,CPU Intel,Intel,CPU Intel Core i3 6320 3.9 GHz / 4MB / HD 530 Graphics / Socket 1151 (Skylake),1151,i3,6320,7
+4290000,CPU Intel,Intel,CPU Intel Core i5 6402P 2.8GHz / 6MB / HD 510 Graphics / Socket 1151 (Skylake),1151,i5,6402,7
+4350000,CPU Intel,Intel,CPU Intel Core i5 6400 2.7 GHz / 6MB / HD 530 Graphics / Socket 1151 Skylake,1151,i5,6400,7
+4890000,CPU Intel,Intel,CPU Intel Core i5 6500 3.2 GHz / 6MB / HD 530 Graphics / Socket 1151 Skylake,1151,i5,6500,7
+5390000,CPU Intel,Intel,CPU Intel Core i5 6600 3.3 GHz / 6MB / HD 530 Graphics  / Socket 1151 (Skylake),1151,i5,6600,7
+5950000,CPU Intel,Intel,CPU Intel Core i5 6600K 3.5 GHz / 6MB / HD 530 Graphics  / Socket 1151 (Skylake) - chưa kèm quạt,1151,i5,6600,7
+6439000,CPU Intel,Intel,CPU Intel Core Xeon E3-1270 V6 3.8 GHz / 8MB / Socket 1151 (Kabylake),1151,E3,1270,7
+7420000,CPU Intel,Intel,CPU Intel Core i7 6700 3.4 GHz / 8MB / HD 530 Graphics  / Socket 1151 (Skylake),1151,i7,6700,7
+8390000,CPU Intel,Intel,CPU Intel Core i7 6700K 4.0 GHz / 8MB / HD 530 Graphics  / Socket 1151 (Skylake) - Chưa kèm quạt,1151,i7,6700,7
+3649000,CPU Intel,Intel,CPU Intel Core i3-7300 4.0 GHz / 4MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,i3,7300,8
+4639000,CPU Intel,Intel,CPU Intel Core i5-7400 3.0 GHz / 6MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,i5,7400,8
+4979000,CPU Intel,Intel,CPU Intel Core i5-7500 3.4 GHz / 6MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,i5,7500,8
+5479000,CPU Intel,Intel,CPU Intel Core i5-7600 3.5 GHz / 6MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,i5,7600,8
+5979000,CPU Intel,Intel,CPU Intel Core i5-7600K 3.8 GHz / 6MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,i5,7600,8
+7639000,CPU Intel,Intel,CPU Intel Core i7-7700 3.6 GHz / 8MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,i7,7700,8
+8539000,CPU Intel,Intel,CPU Intel Core i7-7700K 4.2 GHz / 8MB / HD 600 Series Graphics / Socket 1151 (Kabylake),1151,i7,7700,8
