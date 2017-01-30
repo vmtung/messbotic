@@ -27,7 +27,8 @@ class Mainboard {
 	
 		foreach ( $csv as $mainboardData ) {
 			$value = floatval ( $mainboardData ['Price'] );
-			if ($value <= $limitPrice && $value > 0) {
+			$socketData = $mainboardData['Socket'];
+			if ($value <= $limitPrice && $value > 0 && $socket === $socketData) {
 				array_push ( $data, $mainboardData );
 			}
 		}
